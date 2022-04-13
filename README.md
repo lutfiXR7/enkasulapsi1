@@ -1,1 +1,6 @@
-# enkasulapsi1
+![Enkapsulasi 1](https://user-images.githubusercontent.com/101534203/163275448-960b3d79-dd20-4008-91d1-96ce8ad83db1.png)
+![Enkapsulasi 2](https://user-images.githubusercontent.com/101534203/163275457-4b6881b6-b619-4c0b-a22e-ad55b06b2fcd.png)
+![Enkapsulasi 3](https://user-images.githubusercontent.com/101534203/163275456-d41b329c-5608-466c-b74e-3aaaf154bba1.png)
+![Enkapsulasi 4](https://user-images.githubusercontent.com/101534203/163275455-6b460f01-9544-44a6-9dbc-fe88f71a36b3.png)
+![Enkapsulasi 5](https://user-images.githubusercontent.com/101534203/163275454-e7afa6f9-09f0-4f30-9d9a-2f905ad01337.png)
+![Enkapsulasi 6](https://user-images.githubusercontent.com/101534203/163275452-6da54ce1-c90a-4152-adbd-d7ab785288a2.png)
